@@ -1,0 +1,30 @@
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\bin\Debug\net6.0\2 наоборот 1.exe
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\bin\Debug\net6.0\2 наоборот 1.deps.json
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\bin\Debug\net6.0\2 наоборот 1.runtimeconfig.json
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\bin\Debug\net6.0\2 наоборот 1.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\bin\Debug\net6.0\ref\2 наоборот 1.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\bin\Debug\net6.0\2 наоборот 1.pdb
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\obj\Debug\net6.0\ref\2 наоборот 1.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.pdb
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\2 наоборот 1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\bin\Debug\net6.0\2 наоборот 1.exe
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\bin\Debug\net6.0\2 наоборот 1.deps.json
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\bin\Debug\net6.0\2 наоборот 1.runtimeconfig.json
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\bin\Debug\net6.0\2 наоборот 1.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\bin\Debug\net6.0\ref\2 наоборот 1.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\bin\Debug\net6.0\2 наоборот 1.pdb
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\obj\Debug\net6.0\ref\2 наоборот 1.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.pdb
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\1\2 наоборот 1\obj\Debug\net6.0\2 наоборот 1.genruntimeconfig.cache
