@@ -1,0 +1,15 @@
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\bin\Debug\net6.0\4 задание.exe
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\bin\Debug\net6.0\4 задание.deps.json
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\bin\Debug\net6.0\4 задание.runtimeconfig.json
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\bin\Debug\net6.0\4 задание.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\bin\Debug\net6.0\ref\4 задание.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\bin\Debug\net6.0\4 задание.pdb
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\obj\Debug\net6.0\4 задание.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\obj\Debug\net6.0\4 задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\obj\Debug\net6.0\4 задание.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\obj\Debug\net6.0\4 задание.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\obj\Debug\net6.0\4 задание.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\obj\Debug\net6.0\4 задание.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\obj\Debug\net6.0\ref\4 задание.dll
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\obj\Debug\net6.0\4 задание.pdb
+C:\Users\Vlad\Desktop\лабы\Программы\5 задач\4 задание\4 задание\obj\Debug\net6.0\4 задание.genruntimeconfig.cache
